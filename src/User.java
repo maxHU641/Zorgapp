@@ -1,6 +1,5 @@
 class User {
 
-    /// variabelen
     private int userID;
     private String userName;
     private String userRole;
@@ -11,7 +10,6 @@ class User {
     private boolean cantCreatePatients;
 
 
-    /// constructor
     public User(int id, String name, String role) {
         this.userID = id;
         this.userName = name;
@@ -19,7 +17,6 @@ class User {
     }
 
 
-    /// getters
     public int getUserID() { return userID; }
     public String getUserName() { return userName; }
     public String getUserRole() { return userRole; }

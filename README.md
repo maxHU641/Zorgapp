@@ -10,3 +10,11 @@ De volgende classes zijn gegeven en kunnen worden aangepast naar wens:
 * Administration: hier wordt het hoofdmenu geregeld
 * Patient: deze class is verantwoordelijk voor het weergeven van patiëntgegevens
 * User: dit is de ingelogde gebruiker
+
+# zorgapp
+
+Dit was mijn eerste introductie met programmeren. Een jaar later hierop terugkijkend is het vooral bijzonder om te zien hoe ver ik gekomen ben.
+Waar ik redelijk tevreden ben over een aantal onderdelen in het project - de User class - waarin ik elk beroep andere rechten heb gegeven, 
+zie ik vooral bijzondere keuzes en af en toe zelfs hilarische dingen in mijn programma staan. Van de Administration class die 800 regels code aan menu logica is,
+tot de comments die ik OVERAL bij plaatste. In sommige classes staat zelfs de comment 'constructor'. Terugkijkend op dit project was het ongelooflijk leerzaam,
+en zou ik geen beter eerste project kunnen voorstellen voor iemands eerste keer programeren. Mijn docenten hebben dit echt erg goed gedaan.

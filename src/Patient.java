@@ -21,7 +21,6 @@ class Patient {
     private List<Tests>  tests = new ArrayList<>();
 
 
-    /// constructor
     Patient(int id, String firstName, String lastName,
             LocalDate dateOfBirth, double height,
             double weight, String gender, String comments) {
